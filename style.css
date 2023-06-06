@@ -1,0 +1,21 @@
+#main__section{
+   /* text-align: center; */
+   justify-content: center;
+   width:300px;
+   justify-self: center;
+   margin-left: 800px;
+   margin-top: 100px;
+}
+.headline{
+   margin-left: 10px;
+   color: white;
+}
+body{
+   background-image:url(/img/1646135249571.jpeg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+li{
+   color: white;
+   font-size: 15px;
+}
